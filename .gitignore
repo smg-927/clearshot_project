@@ -1,0 +1,43 @@
+# 유니티 자동 생성 폴더 (빌드에 필요하지 않음)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+
+# 유니티 패키지 관련
+[Pp]ackages/*/
+!Packages/manifest.json
+!Packages/packages-lock.json
+
+# 빌드 결과물 제외
+*.apk
+*.aab
+*.unitypackage
+
+# VSCode 및 JetBrains Rider 관련
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.tmproj
+*.booproj
+
+# Mac OS 관련
+.DS_Store
+._*
+
+# Windows 관련
+Thumbs.db
+Desktop.ini
+
+# 기타 유니티 설정 파일
+[Tt]extMeshPro/
+[Tt]extMeshPro.meta
